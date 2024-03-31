@@ -1,0 +1,12 @@
+.custom-navbar {
+    border-bottom: 2px solid #333; /* Add a border to the bottom of the Navbar */
+}
+
+.nav-link {
+    color: #fff !important; /* Set the color of the nav links to white */
+    margin-right: 20px; /* Add margin between the nav links */
+}
+
+.nav-link:hover {
+    color: #ccc !important; /* Change color of nav links on hover */
+}
